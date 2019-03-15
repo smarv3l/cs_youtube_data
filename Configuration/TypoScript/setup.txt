@@ -97,5 +97,3 @@ plugin.tx_csyoutubedata {
       color: #aa0225; }
         )
 }
-
-page.includeCSS.tx_csyoutubedata = https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css
